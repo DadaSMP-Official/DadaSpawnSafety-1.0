@@ -1,0 +1,6 @@
+name: DadaSpawnSafety
+version: 1.0.0
+main: it.dadasmp.spawnsafety.DadaSpawnSafety
+api-version: '1.20'
+author: DadaSMP
+description: Teletrasporta allo spawn chi cade nel void dello spawn.
